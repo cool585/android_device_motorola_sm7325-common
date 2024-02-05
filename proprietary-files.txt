@@ -578,7 +578,9 @@ vendor/lib64/libperipheral_client.so
 vendor/lib64/libspcom.so
 
 # Power-off alarm
-system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar
+Nothing/Spacewar/Spacewar:11/RKQ1.211222.001/2401191910:user/release-keys
+system_ext/app/PowerOffAlarm/PowerOffAlarm.apk|c31a2bdbed4398c95812ac2d3d0162d632055e00
+system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar|2cff0d9993e6f51e7095f43eb71014eea7cd4ea2
 vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service
 vendor/bin/power_off_alarm
 vendor/etc/init/vendor.qti.hardware.alarm@1.0-service.rc
